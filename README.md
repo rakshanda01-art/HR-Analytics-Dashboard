@@ -21,7 +21,9 @@ This project is an advanced Power BI Dashboard" built on an HR dataset. It provi
 4. Refresh the data and explore the visuals.
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
-
+![Dashboard Preview] Departmental Overview.PNG
+                     Gender Diversification.PNG
+                     HR Analytics Dashboard.PNG
+                     
 ## 📬 Contact
 Feel free to connect with me on www.linkedin.com/in/rukhshinda-khan-a136921a3
