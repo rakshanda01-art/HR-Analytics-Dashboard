@@ -24,4 +24,4 @@ This project is an advanced Power BI Dashboard" built on an HR dataset. It provi
 ![Dashboard Preview](dashboard_preview.png)
 
 ## 📬 Contact
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/rukhshinda-khan-a136921a3).
+Feel free to connect with me on www.linkedin.com/in/rukhshinda-khan-a136921a3
